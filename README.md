@@ -1,5 +1,5 @@
 - Hi, I’m @Firestar916
-- I’m interested in dApps, learning about blockchain stuff, design
-- I’m currently learning JavaScript, UX, Haskell
+- I’m interested in dApps, learning about blockchain stuff, design, writing, and research.
+- I’m currently learning JavaScript, Rust, Haskell
 - I’m looking to collaborate on anything.
-- How to reach me @Firestar#1018
+- How to reach me: Discord: @Firestar#1018
